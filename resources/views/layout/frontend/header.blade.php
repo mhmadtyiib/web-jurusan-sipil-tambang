@@ -133,8 +133,10 @@
                                                 <li><a href="{{url ('frontend/akreditasi_pertambangan')}}">Prodi T. Pertambangan</a></li>                          
                                             </ul>    
                                         </li>
-                                        <li class="dropdown"><a href="#">Prodi TRKJJ</li>
-                                        <li class="dropdown"><a href="#">Prodi Teknologi Pertambangan</li> 
+
+                                        <li class="dropdown"><a href="#">Prodi TRKJJ</a></li>
+
+                                        <li class="dropdown"><a href="#">Prodi Teknologi Pertambangan</a></li> 
                                     </ul> 
                                 </li>
                                 <li><a href={{ url('frontend/berita')}}>BERITA</a></li>
