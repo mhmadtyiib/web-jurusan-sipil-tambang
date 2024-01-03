@@ -244,7 +244,7 @@
 
             <div class="sec-title centered">
                 <div class="title"></div>
-                <h2> Berita <br>Jurusan Teknik Sipil dan Pertambangan</h2>
+                <h2> Berita Terbaru<br>Jurusan Teknik Sipil dan Pertambangan</h2>
             </div>
             <div class="title-text">Klik selengkapnya untuk mengetahui berita lebih detail.</div>
             <div class="row clearfix">
