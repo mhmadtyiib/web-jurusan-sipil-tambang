@@ -73,8 +73,8 @@
 
                                 <li class="dropdown"><a href="#">PROGRAM STUDI</a>
                                     <ul>
-                                        <li><a href="#">Prodi TRKJJ</a></li>
-                                        <li><a href="#">Prodi Teknologi Pertambangan</a></li>
+                                        <li><a href="#">Teknologi Rekayasa Konstruksi Jalan & Jembatan</a></li>
+                                        <li><a href="#">Teknologi Pertambangan</a></li>
                                     </ul>
                                 </li>
 
