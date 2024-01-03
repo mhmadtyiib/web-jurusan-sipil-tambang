@@ -131,10 +131,10 @@
                                             <ul>
                                                 <li><a href="{{url ('frontend/akreditasi_sipil')}}">Prodi TRKJJ</a></li>
                                                 <li><a href="{{url ('frontend/akreditasi_pertambangan')}}">Prodi T. Pertambangan</a></li>                          
-                                            </ul>
+                                            </ul>    
+                                        </li>
                                         <li class="dropdown"><a href="#">Prodi TRKJJ</li>
-                                        <li class="dropdown"><a href="#">Prodi Teknologi Pertambangan</li>    
-                                        </li> 
+                                        <li class="dropdown"><a href="#">Prodi Teknologi Pertambangan</li> 
                                     </ul> 
                                 </li>
                                 <li><a href={{ url('frontend/berita')}}>BERITA</a></li>
