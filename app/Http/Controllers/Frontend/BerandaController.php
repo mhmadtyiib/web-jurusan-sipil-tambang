@@ -11,7 +11,7 @@ class BerandaController extends Controller
 {
     public function beranda() 
     {
-        $data['list_foto'] = Foto::all();
+        $data['list_foto'] = Foto::paginate(6);
         $data['list_berita'] = Berita::all();
         return view('frontend.base', $data); 
     }

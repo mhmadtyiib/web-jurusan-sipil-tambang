@@ -226,6 +226,26 @@
             </div>
                 
             @endforeach
+
+            <div class="container">
+                <div class="text-center">
+                    <strong style="color: rgb(6, 6, 6)">{{ $list_foto->onEachSide(1)->links() }}</strong>
+                </div>
+            </div>
+            <hr class="center_line grey-bg">
+            <div class="container">
+                <div class="text-center">
+                    <strong>
+                        Menampilkan
+                        {{ $list_foto->firstItem() }}
+                        Sampai
+                        {{ $list_foto->lastItem() }}
+                        Dari
+                        {{ $list_foto->total() }}
+                        Item
+                    </strong>
+                </div>
+            </div>
                        
         </div>
         
