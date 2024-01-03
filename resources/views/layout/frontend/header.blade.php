@@ -132,6 +132,8 @@
                                                 <li><a href="{{url ('frontend/akreditasi_sipil')}}">Prodi TRKJJ</a></li>
                                                 <li><a href="{{url ('frontend/akreditasi_pertambangan')}}">Prodi T. Pertambangan</a></li>                          
                                             </ul>
+                                        <li class="dropdown"><a href="#">Prodi TRKJJ</li>
+                                        <li class="dropdown"><a href="#">Prodi Teknologi Pertambangan</li>    
                                         </li> 
                                     </ul> 
                                 </li>
