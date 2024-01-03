@@ -250,7 +250,7 @@
             <div class="row clearfix">
 
             <!--News Block Three-->
-            @foreach ($list_berita->sortByDesc('created_at') as $berita) 
+            @foreach ($list_berita->sortByDesc('created_at')->take(6) as $berita) 
             <div class="news-block-three col-md-4 col-sm-6 col-xs-12"> 
                 <div class="inner-box">
                     <div class="image">
