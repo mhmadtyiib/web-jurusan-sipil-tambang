@@ -71,7 +71,14 @@
                             <ul class="navigation clearfix">
                                 <li><a href="{{url('/')}}" >BERANDA</a></li>
 
-                                <li class=" dropdown"><a href="#">PROFIL</a>
+                                <li class="dropdown"><a href="#">PROGRAM STUDI</a>
+                                    <ul>
+                                        <li><a href="#">Prodi TRKJJ</a></li>
+                                        <li><a href="#">Prodi Teknologi Pertambangan</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="dropdown"><a href="#">PROFIL</a>
                                     <ul>
                                         <li><a href="{{url('frontend/pimpinan')}}">Pimpinan</a></li>
                                         <li class="dropdown"><a href="#">Dosen</a>
@@ -132,11 +139,7 @@
                                                 <li><a href="{{url ('frontend/akreditasi_sipil')}}">Prodi TRKJJ</a></li>
                                                 <li><a href="{{url ('frontend/akreditasi_pertambangan')}}">Prodi T. Pertambangan</a></li>                          
                                             </ul>    
-                                        </li>
-
-                                        <li><a href="#">Prodi TRKJJ</a></li>
-
-                                        <li><a href="#">Prodi Teknologi Pertambangan</a></li> 
+                                        </li> 
                                     </ul> 
                                 </li>
                                 <li><a href={{ url('frontend/berita')}}>BERITA</a></li>
