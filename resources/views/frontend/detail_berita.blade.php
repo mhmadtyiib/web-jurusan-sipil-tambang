@@ -37,7 +37,7 @@
                                     <li>{{ date('d-M-y', strtotime($berita->created_at)) }}</li>
                                 </ul>
                                 <h3><a>{{$berita->keterangan}}</a></h3>
-                                <div class="text">
+                                <div class="text" style="text-align: justify">
                                     {!! nl2br(e($berita->deskripsi)) !!}  
                                 </div>
                             </div>
