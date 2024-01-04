@@ -124,7 +124,7 @@
                                                         <label for="" class="control-label col-md-2">Deskripsi</label>
                                                         <div class="col-md-10">
 
-                                                            <input type="text" name="deskripsi" class="form-control" required>
+                                                            <textarea name="deskripsi" cols="30" rows="10" class="form-control"></textarea>
                                                         </div>
 
                                                     </div>
